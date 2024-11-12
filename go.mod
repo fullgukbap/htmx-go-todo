@@ -1,5 +1,5 @@
-module github.com/fullgukbap/htmx-go-todo
+module htmx-go-todo
 
-go 1.22.3
+go 1.23.1
 
 require github.com/go-chi/chi/v5 v5.1.0
